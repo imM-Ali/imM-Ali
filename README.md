@@ -3,7 +3,7 @@
 
 - 🔭 Bsc. (Hons.) Computing and IT 4th Year Student at **CCT College Dublin**
 
-- 🌱 I’m currently learning **Ruby on Rails and Java Spring**
+- 🌱 I’m currently learning **Python and Java Spring**
 
 - 👯 Looking to help teams with **Web Development and Software Development**
 
