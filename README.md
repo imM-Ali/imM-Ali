@@ -3,13 +3,13 @@
 
 - 🔭 Bsc. (Hons.) Computing and IT 4th Year Student at **CCT College Dublin**
 
-- 🌱 I’m currently learning **Python and Java Spring**
+- 🌱 I’m currently learning **Python and R** for Data Analytics.
 
-- 👯 Looking to help teams with **Web Development and Software Development**
+- 👯 Looking to help teams with **Data Engineering, Software Development and Cloud Solutions**
 
-- 🤝 Very comfortable with OOD in **ASP.NET (C#) and Java**
-
-- 📄 Personal projects are available at [https://github.com/imM-Ali](https://github.com/imM-Ali)
+- 🤝 Comfortable with OOD in **ASP.NET (C#) and Java**
+  
+- 🤝 Comfortable with Data ETL using **AWS** and Data Exploration using **R and Python**
 
 - 📫 How to reach me **alishahzaib90@gmail.com**
 
