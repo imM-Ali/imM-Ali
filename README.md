@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
 <h3 align="center">An aspiring software developer from Dublin</h3>
 
-- 🔭 Bsc. (Hons.) Computing and IT 4th Year Student at **CCT College Dublin**
+- 🔭 Bsc. (Hons.) Computing and IT from **CCT College Dublin**
 
-- 🌱 I’m currently learning **Python and R** for Data Analytics.
+- 🌱 Proficient with Java/Python/C#.
 
-- 👯 Looking to help teams with **Data Engineering, Software Development and Cloud Solutions**
-
-- 🤝 Comfortable with OOD in **ASP.NET (C#) and Java**
-  
-- 🤝 Comfortable with Data ETL using **AWS** and Data Exploration using **R and Python**
+- 👯 Looking to help teams with **Machine Learning, Data Analytics, Software Development and Cloud Solutions**
 
 - 📫 How to reach me **alishahzaib90@gmail.com**
 
