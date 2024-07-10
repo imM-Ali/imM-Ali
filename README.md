@@ -5,7 +5,7 @@
 
 - 🌱 Proficient with Java/Python/C#.
 
-- 👯 Looking to help teams with **Machine Learning, Data Analytics, Software Development and Cloud Solutions**
+- 👯 Looking to help teams with **Machine Learning, Data Analytics, Web App Development and Cloud/Desktop solutions**
 
 - 📫 How to reach me **alishahzaib90@gmail.com**
 
